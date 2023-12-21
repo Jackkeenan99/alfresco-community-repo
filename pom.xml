@@ -26,7 +26,7 @@
         <acs.version.major>23</acs.version.major>
         <acs.version.minor>2</acs.version.minor>
         <acs.version.revision>0</acs.version.revision>
-        <acs.version.label />
+        <acs.version.label/>
         <amp.min.version>${acs.version.major}.0.0</amp.min.version>
 
         <version.edition>Community</version.edition>
@@ -105,7 +105,7 @@
         <dependency.jakarta-annotation-api.version>2.1.1</dependency.jakarta-annotation-api.version>
         <dependency.jakarta-transaction-api.version>2.0.1</dependency.jakarta-transaction-api.version>
         <dependency.jakarta-jws-api.version>3.0.0</dependency.jakarta-jws-api.version>
-        <dependency.jakarta-ee-mail.version>2.0.1</dependency.jakarta-ee-mail.version>
+        <dependency.jakarta-ee-mail.version>2.1.2</dependency.jakarta-ee-mail.version>
         <dependency.jakarta-ee-activation.version>2.0.1</dependency.jakarta-ee-activation.version>
         <dependency.jakarta-ee-jms.version>3.0.0</dependency.jakarta-ee-jms.version>
         <dependency.java-ee-activation.version>1.2.0</dependency.java-ee-activation.version>
