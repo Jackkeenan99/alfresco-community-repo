@@ -26,7 +26,7 @@
         <acs.version.major>23</acs.version.major>
         <acs.version.minor>2</acs.version.minor>
         <acs.version.revision>0</acs.version.revision>
-        <acs.version.label />
+        <acs.version.label/>
         <amp.min.version>${acs.version.major}.0.0</amp.min.version>
 
         <version.edition>Community</version.edition>
@@ -401,7 +401,7 @@
             <dependency>
                 <groupId>commons-logging</groupId>
                 <artifactId>commons-logging</artifactId>
-                <version>1.2</version>
+                <version>1.3.0</version>
             </dependency>
             <dependency>
                 <groupId>commons-beanutils</groupId>
