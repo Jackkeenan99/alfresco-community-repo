@@ -26,7 +26,7 @@
         <acs.version.major>23</acs.version.major>
         <acs.version.minor>2</acs.version.minor>
         <acs.version.revision>0</acs.version.revision>
-        <acs.version.label />
+        <acs.version.label/>
         <amp.min.version>${acs.version.major}.0.0</amp.min.version>
 
         <version.edition>Community</version.edition>
@@ -83,7 +83,7 @@
         <dependency.groovy.version>3.0.19</dependency.groovy.version>
         <dependency.tika.version>2.4.1</dependency.tika.version>
         <dependency.truezip.version>7.7.10</dependency.truezip.version>
-        <dependency.poi.version>5.2.2</dependency.poi.version>
+        <dependency.poi.version>5.3.0</dependency.poi.version>
         <dependency.poi-ooxml-lite.version>5.2.3</dependency.poi-ooxml-lite.version>
         <dependency.jboss.logging.version>3.5.0.Final</dependency.jboss.logging.version>
         <dependency.camel.version>4.0.0</dependency.camel.version> <!-- when bumping this version, please keep track/sync with included netty.io dependencies -->
