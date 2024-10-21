@@ -26,7 +26,7 @@
         <acs.version.major>23</acs.version.major>
         <acs.version.minor>2</acs.version.minor>
         <acs.version.revision>0</acs.version.revision>
-        <acs.version.label />
+        <acs.version.label/>
         <amp.min.version>${acs.version.major}.0.0</amp.min.version>
 
         <version.edition>Community</version.edition>
@@ -81,7 +81,7 @@
         <dependency.slf4j.version>2.0.9</dependency.slf4j.version>
         <dependency.log4j.version>2.20.0</dependency.log4j.version>
         <dependency.groovy.version>3.0.19</dependency.groovy.version>
-        <dependency.tika.version>2.4.1</dependency.tika.version>
+        <dependency.tika.version>3.0.0</dependency.tika.version>
         <dependency.truezip.version>7.7.10</dependency.truezip.version>
         <dependency.poi.version>5.2.2</dependency.poi.version>
         <dependency.poi-ooxml-lite.version>5.2.3</dependency.poi-ooxml-lite.version>
