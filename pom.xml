@@ -26,7 +26,7 @@
         <acs.version.major>23</acs.version.major>
         <acs.version.minor>2</acs.version.minor>
         <acs.version.revision>0</acs.version.revision>
-        <acs.version.label />
+        <acs.version.label/>
         <amp.min.version>${acs.version.major}.0.0</amp.min.version>
 
         <version.edition>Community</version.edition>
@@ -50,14 +50,14 @@
         <dependency.alfresco-jlan.version>7.5</dependency.alfresco-jlan.version>
         <dependency.alfresco-server-root.version>7.0.1</dependency.alfresco-server-root.version>
         <dependency.activiti-engine.version>5.23.0</dependency.activiti-engine.version>
-        <dependency.activiti.version>5.23.0</dependency.activiti.version>
+        <dependency.activiti.version>7-201708-EA</dependency.activiti.version>
         <dependency.alfresco-transform-core.version>5.0.1</dependency.alfresco-transform-core.version>
         <dependency.alfresco-transform-service.version>4.0.1</dependency.alfresco-transform-service.version>
         <dependency.alfresco-greenmail.version>7.0</dependency.alfresco-greenmail.version>
         <dependency.acs-event-model.version>0.0.24</dependency.acs-event-model.version>
 
         <dependency.aspectj.version>1.9.20.1</dependency.aspectj.version>
-        <dependency.spring.version>6.0.12</dependency.spring.version>
+        <dependency.spring.version>6.1.14</dependency.spring.version>
         <dependency.spring-security.version>6.1.4</dependency.spring-security.version>
         <dependency.antlr.version>3.5.3</dependency.antlr.version>
         <dependency.jackson.version>2.15.2</dependency.jackson.version>
