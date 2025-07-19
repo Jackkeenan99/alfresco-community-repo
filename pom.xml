@@ -26,7 +26,7 @@
         <acs.version.major>23</acs.version.major>
         <acs.version.minor>2</acs.version.minor>
         <acs.version.revision>0</acs.version.revision>
-        <acs.version.label />
+        <acs.version.label/>
         <amp.min.version>${acs.version.major}.0.0</amp.min.version>
 
         <version.edition>Community</version.edition>
@@ -49,8 +49,8 @@
         <dependency.alfresco-trashcan-cleaner.version>2.4.2</dependency.alfresco-trashcan-cleaner.version>
         <dependency.alfresco-jlan.version>7.5</dependency.alfresco-jlan.version>
         <dependency.alfresco-server-root.version>7.0.1</dependency.alfresco-server-root.version>
-        <dependency.activiti-engine.version>5.23.0</dependency.activiti-engine.version>
-        <dependency.activiti.version>5.23.0</dependency.activiti.version>
+        <dependency.activiti-engine.version>7-201708-EA</dependency.activiti-engine.version>
+        <dependency.activiti.version>7-201708-EA</dependency.activiti.version>
         <dependency.alfresco-transform-core.version>5.0.1</dependency.alfresco-transform-core.version>
         <dependency.alfresco-transform-service.version>4.0.1</dependency.alfresco-transform-service.version>
         <dependency.alfresco-greenmail.version>7.0</dependency.alfresco-greenmail.version>
@@ -94,7 +94,7 @@
         <dependency.swagger-ui.version>3.38.0</dependency.swagger-ui.version>
         <dependency.swagger-parser.version>1.0.67</dependency.swagger-parser.version>
         <dependency.maven-filtering.version>3.1.1</dependency.maven-filtering.version>
-        <dependency.maven-artifact.version>3.8.6</dependency.maven-artifact.version>
+        <dependency.maven-artifact.version>3.9.8</dependency.maven-artifact.version>
         <dependency.jdom2.version>2.0.6.1</dependency.jdom2.version>
         <dependency.pooled-jms.version>3.1.2</dependency.pooled-jms.version>
 
