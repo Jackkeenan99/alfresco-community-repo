@@ -94,7 +94,7 @@
         <dependency>
             <groupId>org.apache.commons</groupId>
             <artifactId>commons-lang3</artifactId>
-            <version>3.13.0</version>
+            <version>3.18.0</version>
         </dependency>
         <dependency>
             <groupId>commons-codec</groupId>
@@ -834,8 +834,8 @@
                         <configuration>
                             <target>
                                 <copy todir="${project.build.outputDirectory}">
-                                    <fileset dir="${basedir}/src/main/resources" includes="alfresco/messages/**/*.properties,alfresco/workflow/**/*.properties" />
-                                    <mapper type="regexp" from="^([^_]*).properties$" to="\1_en.properties" />
+                                    <fileset dir="${basedir}/src/main/resources" includes="alfresco/messages/**/*.properties,alfresco/workflow/**/*.properties"/>
+                                    <mapper type="regexp" from="^([^_]*).properties$" to="\1_en.properties"/>
                                 </copy>
                             </target>
                         </configuration>
