@@ -26,7 +26,7 @@
         <acs.version.major>23</acs.version.major>
         <acs.version.minor>2</acs.version.minor>
         <acs.version.revision>0</acs.version.revision>
-        <acs.version.label />
+        <acs.version.label/>
         <amp.min.version>${acs.version.major}.0.0</amp.min.version>
 
         <version.edition>Community</version.edition>
@@ -64,7 +64,7 @@
         <dependency.cxf.version>4.0.2</dependency.cxf.version>
         <dependency.opencmis.version>1.0.0-jakarta-1</dependency.opencmis.version>
         <dependency.webscripts.version>9.0</dependency.webscripts.version>
-        <dependency.bouncycastle.version>1.76</dependency.bouncycastle.version>
+        <dependency.bouncycastle.version>1.79</dependency.bouncycastle.version>
         <dependency.mockito-core.version>5.4.0</dependency.mockito-core.version>
         <dependency.assertj.version>3.24.2</dependency.assertj.version>
         <dependency.org-json.version>20231013</dependency.org-json.version>
@@ -81,7 +81,7 @@
         <dependency.slf4j.version>2.0.9</dependency.slf4j.version>
         <dependency.log4j.version>2.20.0</dependency.log4j.version>
         <dependency.groovy.version>3.0.19</dependency.groovy.version>
-        <dependency.tika.version>2.4.1</dependency.tika.version>
+        <dependency.tika.version>3.2.2</dependency.tika.version>
         <dependency.truezip.version>7.7.10</dependency.truezip.version>
         <dependency.poi.version>5.2.2</dependency.poi.version>
         <dependency.poi-ooxml-lite.version>5.2.3</dependency.poi-ooxml-lite.version>
