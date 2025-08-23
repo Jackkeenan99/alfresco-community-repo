@@ -190,7 +190,7 @@
         <dependency>
             <groupId>com.github.davidmoten</groupId>
             <artifactId>subethasmtp</artifactId>
-            <version>6.0.6</version>
+            <version>7.0.1</version>
             <exclusions>
                 <!-- Duplicate classes from com.sun.mail:jakarta.mail -->
                 <exclusion>
@@ -834,8 +834,8 @@
                         <configuration>
                             <target>
                                 <copy todir="${project.build.outputDirectory}">
-                                    <fileset dir="${basedir}/src/main/resources" includes="alfresco/messages/**/*.properties,alfresco/workflow/**/*.properties" />
-                                    <mapper type="regexp" from="^([^_]*).properties$" to="\1_en.properties" />
+                                    <fileset dir="${basedir}/src/main/resources" includes="alfresco/messages/**/*.properties,alfresco/workflow/**/*.properties"/>
+                                    <mapper type="regexp" from="^([^_]*).properties$" to="\1_en.properties"/>
                                 </copy>
                             </target>
                         </configuration>
